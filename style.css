@@ -1,0 +1,16 @@
+body {background-image:linear-gradient(
+  180dg,
+  #6495ed 5%,
+  #00ffff 20%,
+  #0008b8b 60%,
+  #00cedi 95%
+  );
+margin: 0;
+min-height: 100vh;
+width: 100%;
+}
+
+main {align-itens center;
+  height 100vh;
+justify-content: center;position: relative;
+}
